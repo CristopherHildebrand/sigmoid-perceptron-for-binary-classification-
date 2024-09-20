@@ -1,0 +1,5 @@
+Al final, ambos resultados terminaron siendo prácticamente iguales. 
+Por esta razón, siempre optaría por utilizar TensorFlow. 
+Siempre he considerado que las herramientas creadas deben usarse, 
+y aunque es importante tener un conocimiento de cómo funcionan, 
+es posible adquirir el mismo entendimiento sin la necesidad de realizar todas las operaciones matemáticas en el codigo.
