@@ -3,3 +3,6 @@ Por esta razón, siempre optaría por utilizar TensorFlow.
 Siempre he considerado que las herramientas creadas deben usarse, 
 y aunque es importante tener un conocimiento de cómo funcionan, 
 es posible adquirir el mismo entendimiento sin la necesidad de realizar todas las operaciones matemáticas en el codigo.
+
+Un dato curioso sobre mí: considero que la flojera es una cualidad cuando se mezcla con el perfeccionismo.
+Por lo tanto, soy flojo y prefiero TensorFlow porque es mucho más sencillo y rápido.:)
